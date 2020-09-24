@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "360160318582",
+    "firebase_url": "https://loja-virtual-pro-923be.firebaseio.com",
+    "project_id": "loja-virtual-pro-923be",
+    "storage_bucket": "loja-virtual-pro-923be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360160318582:android:b69d5fb622776f224b3b57",
+        "android_client_info": {
+          "package_name": "com.alytech.lojavirtualpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360160318582-j9rkhbb51berv2umau9n5u6nluqfiaaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1S9bXU5-QSDilN69TIFCU0HtWiVZHrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360160318582-j9rkhbb51berv2umau9n5u6nluqfiaaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
